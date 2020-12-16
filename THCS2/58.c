@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
-int main(){
+int main()
+{
     char str[100];
     fgets(str, 100, stdin);
     char *tok = strtok(str, " ");
