@@ -10,9 +10,9 @@
 | ✅ | Modulo          | - | 11 |
 | 🔳 | Order Statistic | 13 | 12 |
 | ✅ | Prime           | - | 19 |
-| 🔳 | Range Query     | 10,11,17 | 12 |
+| ✅ | Range Query     | - | 12 |
 | 🔳 | Rearrange Array | 10,11,17 | 15 |
-| 🔳 | Searching       | - | 14 |
+| ✅ | Searching       | - | 14 |
 | ✅ | Sorting         | - | 15 |
 | 🔳 | String          | 18,4,7,12,16,19 | 24 |
 | 🔳 | CPPCAT01        | - | 1 |
