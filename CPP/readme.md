@@ -6,7 +6,7 @@
 | ✅ | Fibonacci       | - | 3 |
 | 🔳 | Large Number    | 4 | 4 |
 | ✅ | LCM-GCD         | - | 7 |
-| 🔳 | Matrix          | 4,16,9,12,13,14,15,21 | 21 |
+| ✅ | Matrix          | - | 21 |
 | ✅ | Modulo          | - | 11 |
 | ✅ | Order Statistic | - | 12 |
 | ✅ | Prime           | - | 19 |
