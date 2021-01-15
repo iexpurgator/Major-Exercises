@@ -14,7 +14,7 @@
 | 🔳 | Rearrange Array | 10,11,17 | 15 |
 | ✅ | Searching       | - | 14 |
 | ✅ | Sorting         | - | 15 |
-| 🔳 | String          | 18,4,12,16,19 | 24 |
+| ✅ | String          | - | 24 |
 | 🔳 | CPPCAT01        | - | 1 |
 | ✅ | CPPFAC01        | - | 1 |
 | ✅ | CPPLAS01        | - | 1 |
